@@ -10,7 +10,7 @@ env:
   ECR_REPOSITORY: ecs-devops-repository          
   ECS_SERVICE: sample-app-service                
   ECS_CLUSTER: my-cluster                
-  ECS_TASK_DEFINITION: C:\Users\akrishnan\Exercise Files\deploy_aws\deploy_to_AWS_ECS\first-run-task-definition.json 
+  ECS_TASK_DEFINITION: deploy_to_AWS_ECS\first-run-task-definition.json 
   CONTAINER_NAME: sample-app           
                                                
 
