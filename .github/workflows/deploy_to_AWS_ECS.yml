@@ -10,7 +10,7 @@ env:
   ECR_REPOSITORY: ecs-devops-repository          
   ECS_SERVICE: sample-app-service                
   ECS_CLUSTER: my-cluster                
-  ECS_TASK_DEFINITION: first-run-task-definition.json 
+  ECS_TASK_DEFINITION: first-run-task-definition
   CONTAINER_NAME: sample-app           
                                                
 
